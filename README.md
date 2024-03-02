@@ -35,3 +35,55 @@ Automatically derived relationships were adjusted to remove and replace unwanted
 
 In 2014, the top three countries with the highest total profit are United States ($93,508), India ($48,808) and China ($46,794).
 
+![](top_3.png)
+
+1b.	For each of these three countries, find the three products with the highest total profit. Specifically, what are the products’ names and the total profit for each product?
+
+•	United States
+
+Canon imageCLASS 2200 Advance Copier - $15,680
+
+Hewlett Packard Laserjet 3310 Copier - $3,624
+
+GBC DocuBind TL300 Electric Binding System - $1,911
+
+•	India
+
+Sauder Classic Bookcase, Traditional - $2,420
+
+CISCO Smart Phone, with Caller ID - $1,609
+
+Hamilton Beach Refrigerator, Red - $1,440
+
+•	China
+
+Sauder Classic Bookcase, Metal - $2,420
+
+Bush Classic Bookcase, Mobile	- $1,221
+
+HP Copy Machine, Color - $1,196
+
+United States          |    India      |   China
+-----------------------|---------------|------------------
+![](united_states.png) |![](india.png) |![](china.png)
+
+2. Identify the 3 subcategories with the highest average shipping cost in the United States.
+	
+ The subcategories with the highest average shipping cost in United States are
+• Copiers – 165.29
+• Machines – 132.25
+• Tables – 69.95
+
+![]()
+
+3a. Assess Nigeria’s profitability (i.e., total profit) for 2014. How does it compare to other African countries?
+
+In 2014, Nigeria’s profitability compared to other African countries is the lowest with a total profit of -$23,285. This means that in 2014, Nigeria was at a huge loss.
+
+![]()
+
+b. What factors might be responsible for Nigeria’s poor performance? 
+
+Nigeria’s poor performance was due to their relatively high shipping cost and discount rate. The shipping cost averaged at about $5.50 which is the second highest shipping cost in Africa and the discount rate average at about 0.70 which is amongst the highest in the world.
+
+![]()
