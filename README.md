@@ -74,16 +74,61 @@ United States          |    India      |   China
 • Machines – 132.25
 • Tables – 69.95
 
-![]()
+![](subcategory_shipping.png)
 
 3a. Assess Nigeria’s profitability (i.e., total profit) for 2014. How does it compare to other African countries?
 
 In 2014, Nigeria’s profitability compared to other African countries is the lowest with a total profit of -$23,285. This means that in 2014, Nigeria was at a huge loss.
 
-![]()
+![](nigeria1.png)
 
 b. What factors might be responsible for Nigeria’s poor performance? 
 
 Nigeria’s poor performance was due to their relatively high shipping cost and discount rate. The shipping cost averaged at about $5.50 which is the second highest shipping cost in Africa and the discount rate average at about 0.70 which is amongst the highest in the world.
+
+![](nigeria2.png)
+
+4a. Identify the product subcategory that is the least profitable in Southeast Asia.
+
+The least profitable subcategory in Southeast Asia is Tables with a total profit of -$18,618 which is a huge loss.
+
+b. Is there a specific country in Southeast Asia where Global Superstore should stop offering the subcategory?
+
+Global Superstore should stop offering the Tables subcategory to Indonesia because it made a total profit of -$10,680 which is the highest by a large margin.
+
+![]()
+
+5a. Which city is the least profitable (in terms of average profit) in the United States?
+
+The least profitable city in United States that is **Lancaster** with an average profit of -$179.
+
+
+b. Why is this city’s average profit so low?
+
+Lancaster’s average profit is so low because it has a very high average shipping cost of about $25.54
+
+![]()
+
+6. Which product subcategory has the highest average profit in Australia?
+
+In Australia, the subcategory with the highest average profit is _Appliances_ with an average profit of $139.
+
+![]()
+
+7. Who are the most valuable customers and what do they purchase?
+
+The top 3 most valuable customers are;
+
+• Tamara Chand - Canon imageCLASS 2200 Advance Copier for $8,400
+
+• Raymond Buch - Canon imageCLASS 2200 Advance Copier for $6,720
+
+• Sanjit Chand – Ibico EPK-21 Electric Binding System for $4,630
+
+![]()
+
+## Conclusion/Recommendation
+
+
 
 ![]()
