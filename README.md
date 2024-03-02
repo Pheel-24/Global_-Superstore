@@ -1,6 +1,6 @@
 # Global Superstore
 
-![](superstore.jpg)
+
 
 ## Introduction
 
