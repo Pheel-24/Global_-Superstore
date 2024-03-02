@@ -27,4 +27,11 @@ A new table called _Calendar_  was created using DAX to derived day, month and y
 
 Automatically derived relationships were adjusted to remove and replace unwanted relationships from the desired relationships.
 
-![]()
+![](modeling.png)
+
+## Analysis/Visualization
+
+1a. What are the three countries that generated the highest total profit for Global Superstore in 2014?
+
+In 2014, the top three countries with the highest total profit are United States ($93,508), India ($48,808) and China ($46,794).
+
