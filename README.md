@@ -96,7 +96,7 @@ b. Is there a specific country in Southeast Asia where Global Superstore should 
 
 Global Superstore should stop offering the Tables subcategory to Indonesia because it made a total profit of -$10,680 which is the highest by a large margin.
 
-![]()
+![](southeast_asia.png)
 
 5a. Which city is the least profitable (in terms of average profit) in the United States?
 
@@ -107,13 +107,13 @@ b. Why is this city’s average profit so low?
 
 Lancaster’s average profit is so low because it has a very high average shipping cost of about $25.54
 
-![]()
+![](lancaster.png)
 
 6. Which product subcategory has the highest average profit in Australia?
 
 In Australia, the subcategory with the highest average profit is _Appliances_ with an average profit of $139.
 
-![]()
+![](australia.png)
 
 7. Who are the most valuable customers and what do they purchase?
 
@@ -125,10 +125,12 @@ The top 3 most valuable customers are;
 
 • Sanjit Chand – Ibico EPK-21 Electric Binding System for $4,630
 
-![]()
+Tamara Chand   |   Raymond Buch  |   Sanjit Chand
+---------------|-----------------|---------------
+![](1st.png)   |![](2nd.png)     |![](3rd.png)
 
 ## Conclusion/Recommendation
 
+To increase performance and profitability, Global Superstores should reduce their discount in Nigeria and stop selling the subcategory Tables to Indonesia since they are at a loss.
 
-
-![]()
+![](full.png)
