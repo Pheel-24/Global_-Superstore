@@ -1,6 +1,6 @@
 # Global Superstore
 
-
+![](superstore1.jpg)
 
 ## Introduction
 
@@ -19,3 +19,12 @@ DAX, quick measures, filtering, data modeling, tooltips.
 
 Click [here](https://docs.google.com/spreadsheets/d/1nxESpFzWjlGDMGDVLH69xmDzIl9l6OEq/edit#gid=633280281)
 
+## Data Transformation
+
+A new table called _Calendar_  was created using DAX to derived day, month and year from the date column given.
+
+## Modeling
+
+Automatically derived relationships were adjusted to remove and replace unwanted relationships from the desired relationships.
+
+![]()
